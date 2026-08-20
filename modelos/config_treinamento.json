@@ -1,0 +1,12 @@
+{
+    "modelo_base": "unsloth/Llama-3.2-3B-Instruct-bnb-4bit",
+    "dataset": 135,
+    "epocas": 3,
+    "batch_size": 2,
+    "gradient_accumulation": 4,
+    "learning_rate": 0.0002,
+    "optimizer": "OptimizerNames.ADAMW_8BIT",
+    "scheduler": "SchedulerType.LINEAR",
+    "weight_decay": 0.001,
+    "total_steps": 51
+}
