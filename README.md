@@ -612,6 +612,8 @@ dIAbetes-tech-challenge-fase3/
 │
 ├── resultados/
 │
+├── modelos/
+│
 ├── video-demonstracao/
 │   └── video-apresentacao
 │
