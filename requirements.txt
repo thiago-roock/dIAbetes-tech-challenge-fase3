@@ -9,7 +9,7 @@ langchain_text_splitters==1.1.2
 langgraph==1.2.11
 pandas==3.0.5
 protobuf==7.35.1
-pypdf==6.16.1
+pypdf==6.19.0
 python-dotenv==1.2.3
 sentence_transformers==6.0.0
 torch==2.10.0
